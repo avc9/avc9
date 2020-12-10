@@ -1,6 +1,7 @@
 ### Hi there 👋
-This is Akash! I am pretty much intrested in exploring the world of software development.
-#CP enthusiast!!!!!
+This is Akash! I am pretty much intrested in exploring the world of software development.\
+#CP enthusiast!!!!!\
+How to reach me: [Linkedin](https://www.linkedin.com/in/akash-chodankar-9a395379/)
 <!--
 **avc9/avc9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
