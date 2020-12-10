@@ -2,7 +2,7 @@
 This is Akash! I am pretty much intrested in exploring the world of software development.\
 #CP enthusiast!!!!!\
 How to reach me: [Linkedin](https://www.linkedin.com/in/akash-chodankar-9a395379/)\
-![Akash's github stats](https://github-readme-stats.vercel.app/api?username=avc9&theme=chartreuse-dark&show_icons=true)
+![Akash's github stats](https://github-readme-stats.vercel.app/api?username=avc9&theme=chartreuse-dark&show_icons=true)\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avc9&theme=great-gatsby)
 <!--
 **avc9/avc9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
