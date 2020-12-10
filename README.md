@@ -1,7 +1,12 @@
 ### Hi there 👋
 This is Akash! I am pretty much intrested in exploring the world of software development.\
 #CP enthusiast!!!!!\
-How to reach me: [Linkedin](https://www.linkedin.com/in/akash-chodankar-9a395379/)
+How to reach me: [Linkedin](https://www.linkedin.com/in/akash-chodankar-9a395379/)\
+{{ LANGUAGE_TEMPLATE_START }}
+{{ LANGUAGE_NAME }}
+{{ LANGUAGE_PERCENT }}
+{{ LANGUAGE_COLOR }}
+{{ LANGUAGE_TEMPLATE_END }}
 <!--
 **avc9/avc9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
