@@ -1,10 +1,25 @@
-### Hi there 👋
-This is Akash! I am pretty much intrested in exploring the world of software development.\
-#CP enthusiast!!!!!\
-How to reach me: [Linkedin](https://www.linkedin.com/in/akash-chodankar-9a395379/)\
-![Akash's github stats](https://github-readme-stats.vercel.app/api?username=avc9&theme=chartreuse-dark&show_icons=true)\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avc9&theme=great-gatsby)
- 
+<!DOCTYPE html>
+<html>
+  <body>
+        <h1 align="center">Hi there👋<br /> This is Akash!</h1>
+        <p align="center">    
+          I am a UG sophomore at mechanical engineering department,IIT Bombay<br />I am pretty much intrested in exploring the domain of software development.<br />
+         #CP enthusiast!<br />
+         </p>
+          
+        
+<p align="center">   
+How to reach me:<a href="https://www.linkedin.com/in/akash-chodankar-9a395379/"> Linkedin <a/> <br />
+ </p>
+ <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=avc9&theme=chartreuse-dark&show_icons=true" alt="Akash's github stats"><br />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avc9&theme=great-gatsby" alt="Top Langs"><br />
+  </p>
+<!--![Akash's github stats](https://github-readme-stats.vercel.app/api?username=avc9&theme=chartreuse-dark&show_icons=true)\-->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avc9&theme=great-gatsby)-->
+ </p>
+ </body>
+ </html>
 <!--
 **avc9/avc9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
