@@ -9,7 +9,7 @@
           
         
 <p align="center">   
-How to reach me:<a href="https://www.linkedin.com/in/akash-chodankar-9a395379/"><img src="https://github.com/avc9/avc9/blob/main/linkedin-brands.svg" alt="Linkedin" width="1.7%" height="1.7%"><a/> <br />
+How to reach me:<a href="https://www.linkedin.com/in/akash-chodankar-9a395379/"><img src="https://github.com/avc9/avc9/blob/main/linkedin-brands.svg" alt="Linkedin" width="2.9%" height="2.9%"><a/> <br />
  </p>
  <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=avc9&theme=chartreuse-dark&show_icons=true" alt="Akash's github stats"><br />
