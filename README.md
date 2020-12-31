@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+  <head>
+      <link rel="stylesheet" href="https://github.com/avc9/avc9/blob/main/style.css">
+  </head>
   <body>
         <h1 align="center">Hi there👋<br /> This is Akash!</h1>
         <p align="center">    
