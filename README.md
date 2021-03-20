@@ -3,7 +3,7 @@
   <body>
         <h1 align="center">Hi there👋<br /> This is Akash!</h1>
         <p align="center">    
-          I am a UG sophomore at mechanical engineering department,IIT Bombay<br />I am pretty much intrested in exploring the domain of software development.<br />
+          I am a UG sophomore at mechanical engineering department,IIT Bombay<br />I am pretty much intrested in exploring the domain of software development and Machine learning.<br />
          #CP enthusiast!<br />
          </p>
           
