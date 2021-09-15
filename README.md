@@ -13,7 +13,7 @@ How to reach me:<a href="https://www.linkedin.com/in/akash-chodankar-9a395379/">
  </p>
  <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=avc9&theme=chartreuse-dark&show_icons=true" alt="Akash's github stats"><br />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avc9&theme=great-gatsby" alt="Top Langs"><br />
+   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avc9&theme=great-gatsby" alt="Top Langs"><br />-->
   </p>
 <!--![Akash's github stats](https://github-readme-stats.vercel.app/api?username=avc9&theme=chartreuse-dark&show_icons=true)\-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avc9&theme=great-gatsby)-->
