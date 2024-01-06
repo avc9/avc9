@@ -3,8 +3,7 @@
   <body>
         <h1 align="center">Hi there👋<br /> This is Akash!</h1>
         <p align="center">    
-          I am a UG sophomore at mechanical engineering department,IIT Bombay<br />I am pretty much intrested in exploring the domain of software development and Machine learning.<br />
-         #CP enthusiast!<br />
+          I am an AI enthusiast and a newbie to open source. </ br> I have graduated from Indian Institute of Technology with a mechanical engineering degree and a dual minor in computer science and AI. 
          </p>
           
         
